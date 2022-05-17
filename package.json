@@ -1,0 +1,16 @@
+{
+  "name": "jest-selenium-demo",
+  "version": "1.0.0",
+  "description": "This project shows how to drive your selenium tests with Jest.",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Aam Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "selenium-webdriver": "^4.1.2",
+    "chromedriver": "^101.0.0"
+  }
+}
